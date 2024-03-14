@@ -61,6 +61,7 @@ header > p {
   max-width: 500px;
   margin: auto;
   padding: 10px;
+  padding-bottom: 20px;
 }
 
 nav {
@@ -104,7 +105,7 @@ main h1 {
   color: var(--mycolor5);
   font-family: var(--font-android);
   padding: 20px 0px 20px 0px;
-  font-size: 4em;
+  font-size: 3em;
   margin: auto;
   text-align: center;
 }
