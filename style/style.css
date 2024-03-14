@@ -105,7 +105,7 @@ main h1 {
   color: var(--mycolor5);
   font-family: var(--font-android);
   padding: 20px 0px 20px 0px;
-  font-size: 6em;
+  font-size: 5em;
   margin: auto;
   text-align: center;
 }
